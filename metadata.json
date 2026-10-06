@@ -1,0 +1,6 @@
+{
+  "name": "Sparrow sounds",
+  "description": "A studio-grade ambient soundscape platform and 3D spatial audio mixer built with the Web Audio API, AudioWorklet DSP, and accessible UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
